@@ -1,4 +1,4 @@
-class Conta {
+public class Conta {
 
     Double saldo;
     int agencia;
